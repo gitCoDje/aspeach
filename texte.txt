@@ -1,3 +1,0 @@
-- afficher commande clavier
-- mettre un loading
-- responsive
